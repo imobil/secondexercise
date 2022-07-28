@@ -1,2 +1,2 @@
 My 2nd file 
-adding new line
+new file from feature2
